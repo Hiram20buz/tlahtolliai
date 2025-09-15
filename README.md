@@ -1,1 +1,33 @@
 # TlahtolliAI
+
+## Installation
+Install the necessary packages using npm:
+```bash
+npm -f i
+```
+
+## Running the Application
+Start the development server:
+```bash
+npm run dev
+```
+
+## Chat Module
+Interact with TlahtolliAI using the chat module.
+
+<img width="624" height="545" alt="Screenshot 2025-09-14 at 9 22 42 p m" src="https://github.com/user-attachments/assets/bbd67561-d9c7-4b1e-aa56-5154d1d67ca5" />
+
+## Voice Interface Module
+Use voice commands and audio interactions via the voice interface module.
+
+<img width="582" height="507" alt="Screenshot 2025-09-14 at 9 23 03 p m" src="https://github.com/user-attachments/assets/22ffeabd-5d15-4ff3-9835-be1b78295538" />
+
+## Text Extraction Module
+Extract and analyze text content with the text extraction module.
+
+<img width="648" height="531" alt="Screenshot 2025-09-14 at 9 23 52 p m" src="https://github.com/user-attachments/assets/8413265f-c99a-47e8-a395-ed93006c3643" />
+
+## PDF Chat Assistance Module
+Query PDFs and get assistance directly from the PDF chat module.
+
+<img width="641" height="547" alt="Screenshot 2025-09-14 at 9 28 10 p m" src="https://github.com/user-attachments/assets/1b279c74-a03c-46b8-ab19-a43b23a71745" />
