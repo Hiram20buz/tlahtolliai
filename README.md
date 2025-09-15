@@ -1,4 +1,10 @@
 # TlahtolliAI
+**TlahtolliAI** is an app designed to help you practice and improve your English vocabulary using AI. It includes several modules:
+
+- **Chat Module:** Type messages or send audio to practice English conversation.
+- **Voice Interface Module:** Practice speaking and listening entirely through voice, with no typing required.
+- **Text Extraction Module:** Extract text from images to learn its pronunciation.
+- **PDF Chat Assistance Module:** Interact and chat with the content of a PDF file for enhanced learning.
 
 ## Installation
 Install the necessary packages using npm:
